@@ -1,0 +1,2 @@
+model_checkpoint_path: "value10B_sac10B"
+all_model_checkpoint_paths: "value10B_sac10B"
